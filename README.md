@@ -6,14 +6,6 @@ The robot continuously scans its surroundings, detects obstacles, chooses the be
 
 ---
 
-## 📸 Project Overview
-
-![Obstacle Avoiding Robot Wiring Diagram](images/wiring_diagram.png)
-
-> Place your wiring diagram inside the `images` folder and rename it to `wiring_diagram.png`.
-
----
-
 # ✨ Features
 
 - 🚗 Autonomous navigation
@@ -254,26 +246,13 @@ Obstacle-Avoiding-Robot/
 
 ---
 
-# 📷 Robot Images
-
-
-### Side View
-
-![Side View](images/side_view.jpg)
-
----
-
-### Top View
-
-![Top View](images/top_view.jpg)
-
 ---
 
 # 👨‍💻 Author
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/tusharSingh3011
 
 ---
 
